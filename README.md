@@ -33,29 +33,30 @@ Once the data is scraped, it undergoes:
 
 The project generates visualizations using `Matplotlib` and `Seaborn` to uncover trends and insights.
 
-#### Rating Distribution
-A histogram displaying how product ratings are distributed across the dataset.
+#### Reviews vs. Ratings
+A scatter plot showing the relationship between product reviews and ratings, categorized by availability.
 
 ![Distribution of Product Ratings](images/Screenshot%20from%202025-02-25%2021-29-59.png)
-
----
-
-#### Top 5 Products by Reviews
-A bar chart showing the products with the highest number of reviews.
-
-![Top 5 Products by Reviews](images/Screenshot%20from%202025-02-25%2021-29-41.png)
 
 ---
 
 #### Stock Availability Distribution
 A pie chart summarizing the availability of products (e.g., "In Stock" vs. "Limited Stock").
 
+
+![Top 5 Products by Reviews](images/Screenshot%20from%202025-02-25%2021-29-41.png)
+
+---
+
+#### Rating Distribution
+A histogram displaying how product ratings are distributed across the dataset.
+
 ![Stock Availability Distribution](images/Screenshot%20from%202025-02-25%2021-29-25.png)
 
 ---
 
-#### Reviews vs. Ratings
-A scatter plot showing the relationship between product reviews and ratings, categorized by availability.
+#### Rating Distribution
+A histogram displaying how product ratings are distributed across the dataset.
 
 ![Reviews vs. Ratings](images/Screenshot%20from%202025-02-25%2021-29-07.png)
 
