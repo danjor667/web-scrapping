@@ -105,6 +105,7 @@ if __name__ == '__main__':
     for link in links_list:
         new_webpage = requests.get("https://www.amazon.com" + link, headers=HEADERS)
 
+        
         new_soup = BeautifulSoup(new_webpage.content, "html.parser")
 
         # Function calls to display all necessary product information
