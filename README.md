@@ -10,11 +10,11 @@ This project performs web scraping on Amazon to collect product details and anal
 - Analyzes price variations across different products
 
 ## Technologies Used
-- **Python** 🐍
-- **BeautifulSoup** 🌐 (for web scraping)
-- **Requests** 📡 (for making HTTP requests)
-- **Pandas** 📊 (for data processing)
-- **Matplotlib & Seaborn** 📈 (for visualization)
+- **Python** 
+- **BeautifulSoup**  (for web scraping)
+- **Requests**  (for making HTTP requests)
+- **Pandas**  (for data processing)
+- **Matplotlib & Seaborn**  (for visualization)
 
 ## Setup & Installation
 1. Clone this repository:
